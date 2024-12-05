@@ -1,5 +1,5 @@
-- Hi, I’m @HarshChhajed-3010
-- I'm interested in the exciting world of Robotics.
-- I'm currently learning about Robotics and its applications.
-- I'm looking to collaborate on projects related to Robotics or any tech-driven innovations.
-- How to reach me: Feel free to connect via email at harshchhajed2255@gmail.com or through LinkedIn www.linkedin.com/in/harshchhajed30. Let's explore the future    of technology together!
+👋 Hi, I’m Harsh Chhajed!  
+🔧 Passionate about exploring the cutting-edge field of Robotics.  
+📚 Currently advancing my knowledge in Robotics Applications and Innovations.  
+🤝 Open to collaboration on Robotics projects and Technology-Driven Initiatives.  
+📩 Let’s connect! Reach me at harshchhajed2255@gmail.com or via LinkedIn: linkedin.com/in/harshchhajed30.
